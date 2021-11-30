@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Eclipsesoftwares\MercuryTourPOMConcept\src\main\java\Page\Elementutil.java"/>
+			<item value="C:\Eclipsesoftwares\NGTutorial"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="POMOrangeHRM1"/>
+			<item value="Aobsqura"/>
+			<item value="AobsquraProject"/>
+			<item value="Obsqura1"/>
+			<item value="Obsqura"/>
+			<item value="ProjectPOm"/>
+			<item value="POMProject"/>
+			<item value="ObsquraPOM"/>
+		</list>
+		<list key="name">
+			<item value="MercuryTours1"/>
+			<item value="MercuryTours"/>
+		</list>
+		<list key="artifactId">
+			<item value="POMOrangeHRMProject"/>
+			<item value="POMProject1"/>
+			<item value="POMProject"/>
+			<item value="PomPractice"/>
+			<item value="ReadDatProperty"/>
+			<item value="MercuryTour"/>
+			<item value="MercuryTours"/>
+			<item value="pom1"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Eclipsesoftwares\ObsquraJava"/>
+			<item value="C:\Users\Reshma.Ambili\OneDrive - Finastra\Resh\Obscura Java\POMOrangeHRMProject"/>
+			<item value="C:\GIT\POMProjectRepo\POMProject1\test-output\Suite-Grouping\Test.html"/>
+			<item value="C:\Eclipsesoftwares\POMOrangeHRMProject"/>
+			<item value="C:\Users\Reshma.Ambili\git\Pom2"/>
+			<item value="C:\Eclipsesoftwares\PageObjectModel"/>
+			<item value="C:\Users\Reshma.Ambili\eclipse-workspace\MSeeleniumPractice"/>
+			<item value="C:\Users\Reshma.Ambili\eclipse-workspace\SeleniumClass"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

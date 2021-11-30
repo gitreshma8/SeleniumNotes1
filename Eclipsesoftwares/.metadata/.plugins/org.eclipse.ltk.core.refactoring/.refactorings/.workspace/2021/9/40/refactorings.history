@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ObsquraJava&apos; to &apos;JavaPartMain&apos;" description="Rename resource &apos;ObsquraJava&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/ObsquraJava" name="JavaPartMain" stamp="1633020740619" updateReferences="true"/>
+</session>

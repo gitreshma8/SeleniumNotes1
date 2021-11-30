@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/gitreshma8/Test-Repo.git"/>
+		<item value="https://github.com/gitreshma8/POMProjectRepo.git"/>
+		<item value="https://github.com/gitreshma8/Pom2.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="Reshma &lt;reshma.satheesh2010@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Reshma &lt;reshma.satheesh2010@gmail.com&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="383,616"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\GIT\POMProjectRepo\.git">
+			<item value="false"/>
+			<item value="Reshma &lt;reshma.satheesh2010@gmail.com&gt;"/>
+			<item value="3rd commit"/>
+			<item value="Reshma &lt;reshma.satheesh2010@gmail.com&gt;"/>
+			<item value="0af143693cb1a8d065f4af3d990046d3c5b55da2"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+		<list key="C:\Eclipsesoftwares\POMOrangeHRMProject\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\Reshma.Ambili\git\Practice repository\.git">
+			<item value="empty"/>
+		</list>
+	</section>
+</section>

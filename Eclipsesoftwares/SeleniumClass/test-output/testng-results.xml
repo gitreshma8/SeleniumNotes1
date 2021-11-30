@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16176" started-at="2021-09-15T17:37:09 IST" finished-at="2021-09-15T17:37:25 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16176" started-at="2021-09-15T17:37:09 IST" finished-at="2021-09-15T17:37:25 IST">
+      <class name="tablehandle.pckg.UserResult">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tablehandle.pckg.UserResult@1a1d6a08]" name="beforeTest" is-config="true" duration-ms="9466" started-at="2021-09-15T17:37:09 IST" finished-at="2021-09-15T17:37:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="login()[pri:1, instance:tablehandle.pckg.UserResult@1a1d6a08]" name="login" duration-ms="6373" started-at="2021-09-15T17:37:18 IST" finished-at="2021-09-15T17:37:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="verifyTableData()[pri:2, instance:tablehandle.pckg.UserResult@1a1d6a08]" name="verifyTableData" duration-ms="300" started-at="2021-09-15T17:37:25 IST" finished-at="2021-09-15T17:37:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTableData -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tablehandle.pckg.UserResult@1a1d6a08]" name="afterTest" is-config="true" duration-ms="0" started-at="2021-09-15T17:37:25 IST" finished-at="2021-09-15T17:37:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tablehandle.pckg.UserResult -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

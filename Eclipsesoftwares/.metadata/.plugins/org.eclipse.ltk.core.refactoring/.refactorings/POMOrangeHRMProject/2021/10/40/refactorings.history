@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Drivers&apos; to &apos;SeleniumTutorial/src/test/resources&apos;&#x0D;&#x0A;- Original project: &apos;POMOrangeHRMProject&apos;&#x0D;&#x0A;- Destination element: &apos;SeleniumTutorial/src/test/resources&apos;&#x0D;&#x0A;- Original element: &apos;Drivers&apos;" description="Copy folder" destination="=SeleniumTutorial/src\/test\/resources=/maven.pomderived=/true=/=/test=/true=/" element1="src/test/resources/Drivers" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1633177236526" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,11 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <site>
+<feature url="features/org.testng.eclipse_7.4.0.202106051955.jar" id="org.testng.eclipse" version="<7.4.0.202106051955">
+   <category name="org.testng.eclipse"/>
+</feature>
+<feature url="features/org.testng.eclipse.maven.feature_7.4.0.202106051955.jar" id="org.testng.eclipse.maven.feature" version="<7.4.0.202106051955>">
+   <category name="org.testng.eclipse"/>
+</feature>
+<category-def name="org.testng.eclipse" label="TestNG"/>
+
+</site>
